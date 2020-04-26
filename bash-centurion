@@ -2,7 +2,7 @@
 # Centurion Drinking Game for Bash.
 # Author: C Gillatt
 
-seconds="6"
+seconds="60"
 
 echo "##########################################################"
 echo "##############  WELCOME TO BASH CENTURION  ###############"
