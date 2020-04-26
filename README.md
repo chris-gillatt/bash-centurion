@@ -4,7 +4,7 @@ Just a simple bash version of the popular drinking game Centurion, where every m
 
 # Screenie
 
-![screenie](https://github.com/chris-gillatt/homebrew-bash-centurion/screenshot.png)
+![screenie](https://github.com/chris-gillatt/homebrew-bash-centurion/blob/master/screenshot.png)
 
 
 # Installation
