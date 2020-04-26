@@ -1,8 +1,14 @@
 #!/bin/bash
-# Centurian Drinking Game for Bash.
+# Centurion Drinking Game for Bash.
 # Author: C Gillatt
 
-seconds="60"
+seconds="6"
+
+echo "##########################################################"
+echo "##############  WELCOME TO BASH CENTURION  ###############"
+echo 
+echo "CTRL+C to chicken out and exit"
+echo 
 
 echo -ne "Round 1 at `date`\r"
 say "Welcome to Bash Centurion. Begin."
@@ -22,4 +28,8 @@ for each in {2..100}; do
   
 done
 
+echo
+echo "##########################################################"
+echo "##############  BASH CENTURION  COMPLETE!  ###############"
 say "You have reached the end of centurion.  Well done, idiots."
+say "Goodbye"

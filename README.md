@@ -19,3 +19,5 @@ Simply run the script in the normal way
 ```
 $ bash-centurian
 ```
+
+To exit at any time, use `CTRL+C`
