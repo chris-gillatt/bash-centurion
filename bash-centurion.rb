@@ -1,4 +1,4 @@
-class Bash-centurion < Formula
+class Bashcenturion < Formula
   desc "Centurion drinking game, written in bash"
   homepage "https://github.com/chris-gillatt/homebrew-bash-centurion"
   url "https://github.com/chris-gillatt/homebrew-bash-centurion/raw/master/tars/bash-centurion-0.0.1.tar.gz"
@@ -10,6 +10,6 @@ class Bash-centurion < Formula
   bottle :unneeded
 
   def install
-    bin.install "bash-centurion"
+    bin.install "bashcenturion"
   end
 end
