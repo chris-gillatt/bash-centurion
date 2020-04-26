@@ -5,7 +5,7 @@ class BashCenturion < Formula
   sha256 "a95cd744340b8d39c5dc1f17c34ec2d8bcabf603bf6902683fe87282122fd665"
   version "0.0.1"
 
-  depends_on "say"
+#  depends_on ""
 
   bottle :unneeded
 
