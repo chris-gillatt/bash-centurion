@@ -25,3 +25,4 @@ $ bash-centurian
 ```
 
 To exit at any time, use `CTRL+C`
+###############################################
